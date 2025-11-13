@@ -1,0 +1,5 @@
+{
+  "KeyName": "sua-chave-ec2",
+  "DatabasePassword": "MinhaSenh@123!",
+  "InstanceType": "t3.micro"
+}
